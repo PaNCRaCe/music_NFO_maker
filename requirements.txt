@@ -1,0 +1,2 @@
+pymediainfo==4.0
+humanfriendly==4.18
